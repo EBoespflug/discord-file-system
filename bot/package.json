@@ -1,0 +1,26 @@
+{
+  "name": "dfs",
+  "version": "1.0.0",
+  "description": "Proof of concept for using Discord as external illimited storage.",
+  "main": "dfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBoespflug/discord-file-system.git"
+  },
+  "author": "Etienne Boespflug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EBoespflug/discord-file-system/issues"
+  },
+  "homepage": "https://github.com/EBoespflug/discord-file-system#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2",
+    "table": "^6.7.5"
+  }
+}

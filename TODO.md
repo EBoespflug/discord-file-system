@@ -1,0 +1,3 @@
+ - rm cmd.
+ - delete temporary files.
+ - destroy client on errors.

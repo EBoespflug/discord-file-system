@@ -1,0 +1,6 @@
+{
+    "server_id": "<YOUR_SERVER_ID>",
+    "save_channel_id": "<YOUR_CHANNEL_ID>",
+
+    "indexes": "../test/db.json"
+}
