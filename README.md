@@ -3,14 +3,14 @@
 This repository contains a Discord bot for uploading & downloading files stored in a Discord channel using attachments and chained list of messages. 
 This allows to virtually unlimited storage. 
 
-**This code has been created for research purpose only. Using this code for actually storing data inside discord servers could get you into legal troubles and is probably against the terms of use.
-**
+**This code has been created for research purpose only. Using this code for actually storing data inside discord servers could get you into legal troubles and is probably against the terms of use.**
 
 ## Usage
 
 At first, you will need to create a discord bot and add it to your server ([https://discord.com/developers/applications](here)). 
 
-Install [https://nodejs.org/](node.js) and go to the `bot/` directory containing the node.js files and install dependencies. And create the `/tmp/dfs/` folder (hardcoded in `main.js`): 
+Install [https://nodejs.org/](node.js) and go to the `bot/` directory containing the node.js files and install dependencies. 
+Create the `/tmp/dfs/` folder (hardcoded in `main.js`): 
 
 ```
 :~/dfs/# cd bot/
